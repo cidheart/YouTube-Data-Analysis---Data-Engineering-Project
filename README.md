@@ -22,7 +22,7 @@ Throughout the course of working on this project, I accomplished the following:
 <img src="Dashboard.png">
 
 ## Architecture Diagram
-<img src="architecture.jpeg">
+<img src="Architecture.jpeg">
 
 # Dataset Used
 The Kaggle dataset used for this project contains statistics (CSV files) on daily popular YouTube videos over the course of many months. Here is the link - https://www.kaggle.com/datasets/datasnaek/youtube-new
