@@ -19,7 +19,7 @@ Throughout the course of working on this project, I accomplished the following:
 8. **End-to-End ETL Pipeline:** The culmination of this project was the creation of an end-to-end ETL (Extract, Transform, Load) pipeline. This pipeline, spanning from data ingestion to the creation of analytical insights in our dashboard, showcased my ability to orchestrate complex data workflows and deliver meaningful results.
 
 ## Final Dashboard
-<img src="Dashboard.png">
+<img src="Dashboard.pdf">
 
 ## Architecture Diagram
 <img src="Architecture.jpeg">
