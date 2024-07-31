@@ -26,6 +26,3 @@ Throughout the course of working on this project, I accomplished the following:
 
 # Dataset Used
 The Kaggle dataset used for this project contains statistics (CSV files) on daily popular YouTube videos over the course of many months. Here is the link - https://www.kaggle.com/datasets/datasnaek/youtube-new
-
-# Acknowledgement
-This project was insprired from a YouTube video by Darshil Parmar - https://github.com/darshilparmar
